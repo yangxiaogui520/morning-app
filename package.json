@@ -1,0 +1,11 @@
+{
+  "name": "morning-briefing",
+  "version": "1.0.0",
+  "description": "每日晨报 PWA with Edge TTS",
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
